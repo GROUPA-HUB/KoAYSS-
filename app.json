@@ -13,11 +13,9 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "com.groupahub.koayss"
+      "supportsTablet": true
     },
     "android": {
-      "package": "com.groupahub.koayss",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -27,6 +25,11 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "تطبيق (كويس) هو تطبيق صحي للهواتف مخصص للسودان، يهدف إلى تسهيل الوصول إلى الخدمات الصحية الأساسية، مثل العثور على المستشفيات والصيدليات القريبة، والحصول على معلومات صحية موثوقة، وتذكير المستخدم بالأدوية والتطعيمات، وإدارة السجل الصحي، وتوفير الدعم في حالات الطوارئ. "
+    "description": "تطبيق (كويس) هو تطبيق صحي للهواتف مخصص للسودان، يهدف إلى تسهيل الوصول إلى الخدمات الصحية الأساسية، مثل العثور على المستشفيات والصيدليات القريبة، والحصول على معلومات صحية موثوقة، وتذكير المستخدم بالأدوية والتطعيمات، وإدارة السجل الصحي، وتوفير الدعم في حالات الطوارئ.",
+    "extra": {
+      "eas": {
+        "projectId": "snack-66c9c297-93e9-4d9d-9578-7323e9f17232"
+      }
+    }
   }
 }
